@@ -1,0 +1,10 @@
+{
+    "author" : "yuyang",
+    "date" : "2019/09/05",
+    "name" : "Plugins_Mode",
+    "version" : "1",
+    "dependencies" :
+    [
+         {"name":"Plugins_Core","version":"1"}
+    ]
+}

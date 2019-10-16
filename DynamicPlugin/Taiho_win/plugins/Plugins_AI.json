@@ -1,0 +1,12 @@
+{
+    "author" : "yuyang",
+    "date" : "2019/11/05",
+    "name" : "Plugins_AI",
+    "version" : "1",
+    "dependencies" :
+    [
+      {"name":"Plugins_Core","version":"1"},
+ {"name":"Plugins_Ui","version":"1"},
+      {"name":"Plugins_Mode","version":"1"}
+    ]
+}
